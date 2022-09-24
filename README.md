@@ -4,7 +4,11 @@ Logging experience in the Fall2 batch at Recurse Center. Week by week as the san
 
 ---
 
-## Week 1
+## Week 2: Plans
+  - go to as much stuff as possible
+  - do a small / fun warm-up project
+
+## Week 1: Reflections
 
 ### Accomplishments:
   - got a super basic home server working for the first time! 🤯
@@ -29,9 +33,11 @@ Logging experience in the Fall2 batch at Recurse Center. Week by week as the san
   - creative coding is codename for minihackathon and its amazing
 
 ### Plans and changes for next week:
-  - leetcode 😭
-  - brainstorm directions for more small projects and a bigger project potentially
-  - exercise maybe?
+  - daily leetcode 😭
+  - daily brainstorms (idea + why)
+  - daily exercise group
+  - zinebot
+  - gallerybot
 
 ### What do you want to discuss with the group? 
 (eureka moments, tips that worked really well for you, things you want to find a collaborator for, things you need help with, etc.)
@@ -42,3 +48,13 @@ What are some things I'd like to work on during my batch that I haven't gotten a
   - a big weird esoteric art / code project (?)
   - some kind of practical platform for visual art hippies / art students (??)
   - start a zine / art weirdo group maybe
+
+---
+
+## Week 2: Plan
+  - leetcode group
+  - exercise group
+  - daily brainstorm
+  - zinebot
+  - gallerybot
+  - 
