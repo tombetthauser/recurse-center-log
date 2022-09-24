@@ -1,12 +1,15 @@
-# Secret Recurse Diary
+<img style="width: 150px;" src="https://gifimage.net/wp-content/uploads/2018/06/student-writing-animated-gif-2.gif" />
 
-Logging experience in the Fall2 batch at Recurse Center. Week by week as the sands of time collect in the garbage disposal of the mind.
+# Recurse Center Diary
+
+Personal log of my experience at [Recurse Center](https://recurse.com).
 
 ---
 
-## Week 2: Plans
+## Week 1: Plans
   - go to as much stuff as possible
   - do a small / fun warm-up project
+
 
 ## Week 1: Reflections
 
@@ -57,4 +60,3 @@ What are some things I'd like to work on during my batch that I haven't gotten a
   - daily brainstorm
   - zinebot
   - gallerybot
-  - 
