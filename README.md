@@ -1,4 +1,6 @@
-<img style="width: 150px;" src="https://gifimage.net/wp-content/uploads/2018/06/student-writing-animated-gif-2.gif" />
+<!-- <img style="width: 150px;" src="https://gifimage.net/wp-content/uploads/2018/06/student-writing-animated-gif-2.gif" /> -->
+
+<img style="width: 250px;" src="https://gifimage.net/wp-content/uploads/2018/06/student-writing-animated-gif-1.gif" />
 
 # Recurse Center Diary
 
