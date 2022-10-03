@@ -107,6 +107,31 @@ What are some things I'd like to work on during my batch that I haven't gotten a
   - some kind of practical platform for visual art hippies / art students (??)
   - leetcode
 
+### Links:
+- https://colab.research.google.com/drive/1_x4oYRLcSQBvV8dew5_bgitPl7KCR5vm
+- https://www.youtube.com/watch?v=bUHFg8CZFws
+- https://www.youtube.com/watch?v=modXC5IWTJI
+- https://colab.research.google.com/drive/1-iipm4fxO5iDY0IE3RsZ77gEUBz6yM3G
+- https://www.amazon.com/gp/product/0060168358/
+- https://www.explainxkcd.com/wiki/index.php/2347:_Dependency
+- https://github.com/dlemstra/magick-wasm
+- https://www.gravenimages.ink/texts/the-round-square.html
+- https://www.google.com/search?q=max+msp&hl=en&sxsrf=ALiCzsbMKwEcOJExiIlLmD8Lzzna-I9pVQ:1664206350163&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjLl9bi47L6AhXULkQIHYvSDCYQ_AUoAnoECAIQBA&biw=1089&bih=550&dpr=2#imgrc=RLHQ2X8Hzpkk9M
+- https://gun.eco/
+- https://headlessui.com/
+- https://aaassembly.org/
+- https://github.com/ctford/cljs-bach
+- https://github.com/overtone/overtone
+- https://juce.com/
+- https://supercollider.github.io/
+- https://www.youtube.com/watch?v=3UGO-qJ6Qdo
+- https://www.youtube.com/watch?v=CTf0yE15zzI
+- https://en.wikipedia.org/wiki/Wave_field_synthesis
+- https://www.google.com/search?hl=en&q=pierre%20schaeffer
+- https://sat-mtl.gitlab.io/documentation/satie/en/
+- https://toplap.org/
+- http://puredata.info/
+
 ---
 
 ## Week 3: Plan
