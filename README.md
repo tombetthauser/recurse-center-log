@@ -138,3 +138,6 @@ What are some things I'd like to work on during my batch that I haven't gotten a
   - 1-2 leetcode sessions
   - 2-3 zinebot layouts
   - mvp gallerybot build / install
+  
+### Links
+- https://www.youtube.com/watch?v=2S0k12uZR14
