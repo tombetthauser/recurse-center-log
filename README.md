@@ -56,9 +56,60 @@ What are some things I'd like to work on during my batch that I haven't gotten a
 
 ---
 
-## Week 2: Plan
-  - leetcode group
-  - exercise group
-  - daily brainstorm
-  - zinebot
-  - gallerybot
+## Week 2: Plans
+  - leetcode group ❌
+  - exercise group ✅
+  - daily brainstorm ☑️
+  - zinebot ✅
+  - gallerybot ❌
+
+## Week 2: Reflections
+
+### Accomplishments:
+  - got a couple of good workouts in with the morning exercise group
+  - got zinebot rebuilt, cleaned up and working
+  - had an excellent pairing session working on zinebot
+  - hosted first two meetings and they seemed to go really well
+  - had productive project brainstorm
+
+### Blockers:
+  - having a cold was the only major hinderance
+  - butting up against same speed issues with imagemagick
+  - child care schedule still an issue (changes next week)
+
+### Interactions:
+  - great pairing session on zinebot
+  - great zine / stickers group meeting
+
+### Feelings 
+  - tired / like I didn't get enough work done
+  
+### Takeaways:
+  - got some great exposure to working in google colab and image manipuation using python
+  - got over a nasty cold that derailed me for 2-3 days
+  - got confirmation that image magick isn't a crazy tool to be using
+  - got pointed towards client-side web-assembly version of imagemagick
+
+### Plans and changes for next week:
+  - 1-2 daily leetcodes
+  - add 2-3 layouts to zinebot
+  - basic gallerybot build / install
+  - make budget / plan for solar server
+  - get new homepage on server
+
+### What do you want to discuss with the group? 
+(eureka moments, tips that worked really well for you, things you want to find a collaborator for, things you need help with, etc.)
+  - maybe get advice on gallerybot after basic build
+  - get feedback on zinebot after 2-3 layouts done
+
+### Bonus Question: 
+What are some things I'd like to work on during my batch that I haven't gotten around to planning yet?
+  - some kind of practical platform for visual art hippies / art students (??)
+  - leetcode
+
+---
+
+## Week 3: Plan
+  - 1-2 leetcode sessions
+  - 2-3 zinebot layouts
+  - mvp gallerybot build / install
