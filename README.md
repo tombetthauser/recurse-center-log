@@ -141,3 +141,15 @@ What are some things I'd like to work on during my batch that I haven't gotten a
   
 ### Links
 - https://www.youtube.com/watch?v=2S0k12uZR14
+- https://github.com/recursecenter/wiki/wiki/Checkins
+- https://ohyay.co/
+- https://climatebase.org/
+- https://80000hours.org/
+- https://www.amazon.com/Language-Night-Fantasy-Science-Fiction/dp/0060168358/ref=sr_1_4?crid=3IS8SF9ZQN984&keywords=ursula+le+guin+essays+sci+fi&qid=1665092955&sprefix=ursula+leguin+essays+sci+fi%2Caps%2C179&sr=8-4
+- https://en.wikipedia.org/wiki/Il_Mare
+- https://www.amazon.com/s?k=radio+free+albemuth
+- https://www.bugsex.nyc/
+- https://poolsuite.net/
+- https://en.wikipedia.org/wiki/Samuel_Morse
+- https://en.wikipedia.org/wiki/Stability_of_the_Solar_System
+- https://presentations.recurse.com/?
