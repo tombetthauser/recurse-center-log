@@ -153,3 +153,7 @@ What are some things I'd like to work on during my batch that I haven't gotten a
 - https://en.wikipedia.org/wiki/Samuel_Morse
 - https://en.wikipedia.org/wiki/Stability_of_the_Solar_System
 - https://presentations.recurse.com/?
+- [ps1 blender styling](https://www.youtube.com/watch?v=m3Wf-EegBgg)
+- https://tombetthauser.neocities.org/
+- https://alexanderdouglasbrown.gitlab.io/sentient-ai/
+- [bugsex mix](https://www.youtube.com/watch?v=VyCpzO9VDtw)
