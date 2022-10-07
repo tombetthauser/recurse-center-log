@@ -157,3 +157,8 @@ What are some things I'd like to work on during my batch that I haven't gotten a
 - https://tombetthauser.neocities.org/
 - https://alexanderdouglasbrown.gitlab.io/sentient-ai/
 - [bugsex mix](https://www.youtube.com/watch?v=VyCpzO9VDtw)
+- [constructed language / conlang toki pona](https://www.youtube.com/watch?v=2EZihKCB9iw)
+- https://en.wikipedia.org/wiki/Constructed_language
+- [machine learning animal language](https://medium.com/@blaisea/can-machines-learn-how-to-behave-42a02a57fadb)
+- [herman hesse - the glass bead game](https://en.wikipedia.org/wiki/The_Glass_Bead_Game)
+- [erika's machine learning music (awesome)](https://soundcloud.com/conversationswithrocks/sets/fractal)
