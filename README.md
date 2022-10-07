@@ -1,8 +1,9 @@
 <!-- <img style="width: 150px;" src="https://gifimage.net/wp-content/uploads/2018/06/student-writing-animated-gif-2.gif" /> -->
+<!-- <img style="width: 250px;" src="https://gifimage.net/wp-content/uploads/2018/06/student-writing-animated-gif-1.gif" /> -->
 
-<img style="width: 250px;" src="https://gifimage.net/wp-content/uploads/2018/06/student-writing-animated-gif-1.gif" />
+<img style="width: 250px;" src="https://legendary-digital-network-assets.s3.amazonaws.com/wp-content/uploads/2020/06/13034626/picards-computer.jpg" />
 
-# Recurse Center Diary
+# Recurse Center Log
 
 Personal log of my experience at [Recurse Center](https://recurse.com).
 
@@ -162,3 +163,8 @@ What are some things I'd like to work on during my batch that I haven't gotten a
 - [machine learning animal language](https://medium.com/@blaisea/can-machines-learn-how-to-behave-42a02a57fadb)
 - [herman hesse - the glass bead game](https://en.wikipedia.org/wiki/The_Glass_Bead_Game)
 - [erika's machine learning music (awesome)](https://soundcloud.com/conversationswithrocks/sets/fractal)
+- [hanna's sticker archive (awesome)](https://github.com/hkolbeck/design-host)
+- https://ziglang.org/
+- https://napari.org/stable/
+- [julia image processing](https://juliaimages.org/latest/tutorials/quickstart/)
+- [research science software engineering careers](https://us-rse.org/)
