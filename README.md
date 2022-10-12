@@ -140,6 +140,24 @@ What are some things I'd like to work on during my batch that I haven't gotten a
   - 2-3 zinebot layouts
   - mvp gallerybot build / install
   
+### Week 3 Reflections:
+  - coded a lot
+  - finished zinebot basics!
+  - had good art & chill meeting
+  - no leetcode
+  - felt like I coded too much
+  - didnt get a lot of socializing in
+  - had good meetings with Erika on Machine Learning
+  - had a good meeting with Ed on job search / bootcamps / scifi
+  - had clarity on other rc projects 
+    - zinebot ✅
+    - gallery-bot-net
+    - solar-server
+    - this-future-does-not-exist
+    - drum-and-bass-bot
+    - studio-swipe
+
+  
 ### Links
 - https://www.youtube.com/watch?v=2S0k12uZR14
 - https://github.com/recursecenter/wiki/wiki/Checkins
