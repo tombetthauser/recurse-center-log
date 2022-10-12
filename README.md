@@ -224,3 +224,36 @@ What are some things I'd like to work on during my batch that I haven't gotten a
 - https://previews.123rf.com/images/morphart/morphart1503/morphart150301218/37764173-vector-illustration-of-bored-little-boy-with-books-on-desk-.jpg
 - https://image.shutterstock.com/image-vector/earth-emoji-laugh-happy-emoticon-260nw-1714355803.jpg
 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdxQTZN968U2YWFRV344Y8mpwGy00ArXOCXG6g7sKBKtshRpIopCymmbIeUaTrkzIiTPg&usqp=CAU
+- https://image.shutterstock.com/image-vector/3d-render-funny-cartoon-puppy-260nw-1140977813.jpg
+- https://cdn.xxl.thumbs.canstockphoto.com/worried-emoticon-illustration-of-a-worried-emoticon-isolated-on-a-white-background-stock-illustrations_csp8942547.jpg
+- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsuACPevcG8wRwkDs-cUyG4PKglEBD3G87aS1QO3XASKvCGqUQ4QFKC5gIVamyIVj-2DI&usqp=CAU
+- https://png.pngtree.com/png-clipart/20201208/original/pngtree-cartoon-mushroom-photography-clipart-png-image_5551790.jpg
+
+---
+
+- https://leetcode.com/problems/search-a-2d-matrix/submissions/
+- https://leetcode.com/problems/search-a-2d-matrix-ii/
+- https://micro.com/
+- http://paperjs.org/
+- https://www.jacksonpollockii.com/
+- https://greensock.com/
+- https://css-tricks.com/the-checkbox-hack/
+
+---
+
+- https://course.fast.ai/
+
+---
+
+- https://github.com/recursecenter/wiki/wiki/Checkins
+- https://www.google.com/search?tbm=isch&q=mechanical%20calculator&tbs=imgo:1#imgrc=xrTkqgWGEkw01M
+- https://duckduckgo.com/?t=ffab&q=mac+lc+iii&iax=images&ia=images
+- https://duckduckgo.com/?t=ffab&q=mac+quadra+700&iax=images&ia=images
+- https://www.google.com/search?q=teletype&hl=en&sxsrf=ALiCzsZA0RxvfwLoWv0sbOVB2Xl_S980gQ:1665414947970&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjggoKT-tX6AhVKAzQIHbPZAOwQ_AUoAXoECAIQAw&biw=864&bih=633&dpr=2#imgrc=ljojnMXVRiY3VM
+- http://catb.org/esr/jargon/html/koans.html
+- http://catb.org/esr/jargon/html/magic-story.html
+
+---
+
+- https://www.iucn.org/resources?search_api_fulltext=california&rstype=All&thm=All&tpc=All&rgn=All&cntry=All&resource_type=All%23resources
+- https://www.amazon.com/Half-Earth-Our-Planets-Fight-Life/dp/1631492527/ref=sr_1_1?keywords=half+earth&qid=1665207643&qu=eyJxc2MiOiIxLjcyIiwicXNhIjoiMS40NCIsInFzcCI6IjEuNjEifQ%3D%3D&sr=8-1
