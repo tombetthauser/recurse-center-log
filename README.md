@@ -186,3 +186,23 @@ What are some things I'd like to work on during my batch that I haven't gotten a
 - https://napari.org/stable/
 - [julia image processing](https://juliaimages.org/latest/tutorials/quickstart/)
 - [research science software engineering careers](https://us-rse.org/)
+
+---
+
+- https://sonic-pi.net/tutorial.html#section-3-3
+- https://in-thread.sonic-pi.net/
+- https://github.com/Widdershin/sonic-pi-cli
+- https://github.com/05gash/livecoding/blob/master/utils.rb
+- https://github.com/Widdershin/sonic-pi-cli
+- https://www.youtube.com/watch?v=GPan4gRSwZs
+- https://github.com/thatkidnamedrox/live-coding-sonic-pi
+- https://github.com/thatkidnamedrox/live-coding-sonic-pi-2
+- https://supercollider.github.io/
+- https://www.dogsonacid.com/threads/renegade-android-breaks.818922/
+- https://freesound.org/
+- https://puredata.info/
+- https://leetcode.com/problems/word-search/
+- https://roshambo.hbeck.dev/
+- https://github.com/Widdershin/sonic-pi-cli
+
+--- 
