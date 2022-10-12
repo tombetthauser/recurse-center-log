@@ -206,3 +206,21 @@ What are some things I'd like to work on during my batch that I haven't gotten a
 - https://github.com/Widdershin/sonic-pi-cli
 
 --- 
+
+- https://news.ycombinator.com/item?id=33165836
+- https://interconnected.org/home/2022/10/10/servers
+- https://interconnected.org/home/2022/09/01/carbon
+
+---
+
+- https://www.amazon.com/s?k=the+age+of+ai
+- https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441
+
+---
+
+- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOQZMjvtpYQ6KZjlP89CrErZQE7B5eRANUKA&usqp=CAU
+- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTUnFLMlGIp6LymBqCAw-FjWUx7RB_aC6XA6mkxpUC9Jn0dBLJtWpD6YEcixLbGB8-8fE&usqp=CAU
+- https://www.123rf.com/photo_3694289_boring-books-sleepy-book-with-clipping-path.html
+- https://previews.123rf.com/images/morphart/morphart1503/morphart150301218/37764173-vector-illustration-of-bored-little-boy-with-books-on-desk-.jpg
+- https://image.shutterstock.com/image-vector/earth-emoji-laugh-happy-emoticon-260nw-1714355803.jpg
+- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdxQTZN968U2YWFRV344Y8mpwGy00ArXOCXG6g7sKBKtshRpIopCymmbIeUaTrkzIiTPg&usqp=CAU
