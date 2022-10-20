@@ -3,7 +3,7 @@
 
 <img style="width: 250px;" src="https://legendary-digital-network-assets.s3.amazonaws.com/wp-content/uploads/2020/06/13034626/picards-computer.jpg" />
 
-# Recurse Center Log
+# Recurse Log
 
 Personal log of my experience at [Recurse Center](https://recurse.com).
 
@@ -257,3 +257,9 @@ What are some things I'd like to work on during my batch that I haven't gotten a
 
 - https://www.iucn.org/resources?search_api_fulltext=california&rstype=All&thm=All&tpc=All&rgn=All&cntry=All&resource_type=All%23resources
 - https://www.amazon.com/Half-Earth-Our-Planets-Fight-Life/dp/1631492527/ref=sr_1_1?keywords=half+earth&qid=1665207643&qu=eyJxc2MiOiIxLjcyIiwicXNhIjoiMS40NCIsInFzcCI6IjEuNjEifQ%3D%3D&sr=8-1
+
+---
+
+## Week 4:
+- Completely forgot what I worked on but I remember it felt like a really good week.
+- Met 
