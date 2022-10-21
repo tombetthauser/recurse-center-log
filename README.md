@@ -275,6 +275,7 @@ What are some things I'd like to work on during my batch that I haven't gotten a
 
 <details>
   <summary>Week 5</summary>
+  
 ## Plans
   - learn about machine learning!
   
