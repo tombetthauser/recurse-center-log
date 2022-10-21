@@ -274,15 +274,32 @@ What are some things I'd like to work on during my batch that I haven't gotten a
 </details>
 
 <details>
-  <summary>Week 5 —————</summary>
+  <summary>Week 5</summary>
 ## Plans
+  - learn about machine learning!
+  
 ## Reflections
+  - had great meetings all week with the ML folks in my batch
+  
 ## Accomplishments
+  - started fast.ai and got a pairing project figured out for the rest of the batch maybe!
+  
 ## Blockers
+  - it was tough finding a starting point but I did!
+
 ## Interactions
+  - meetings with Erika, Ben and Michael Nagle were awesome
+  - good coffee chats too!
+  - hanging out on the couches is always a good move!
+
 ## Feelings
+  - feeling super excited about pairing on fast.ai!
+  
 ## Takeaways
+  - staying open to projects and talking to the ML people seems to have been the right move!
+  
 ## Next Week
+  - start coding out stable diffusion from scratch in rust with michael maybe! 🤞
   
 ## Links
 - https://www.google.com/search?tbm=isch&q=paper%20architecture&tbs=imgo:1#imgrc=DNKNI-oQi-nhCM
