@@ -303,6 +303,27 @@ What are some things I'd like to work on during my batch that I haven't gotten a
 - [give back hackathon](https://givebackhack.com/)
 - https://stockfishchess.org/
 - https://www.sciencedirect.com/science/article/pii/S0004370201001291
+- https://raft.github.io/
+- https://htmx.org/
+- https://austinkleon.com/2021/02/19/ursula-k-le-guins-translation-of-the-tao-te-ching/
+- https://pillow.readthedocs.io/en/stable/
+- [recurser ai music](https://jxxcarlson.io/posts/2020-11-19-generative-art-music/)
+- [blood orange](https://editor.p5js.org/hkolbeck/sketches/hWlAcvhQj)
+- http://beatconnection.herokuapp.com/
+- https://en.wikipedia.org/wiki/The_White_Goddess
+- https://editor.p5js.org/hkolbeck/sketches/5edpf3eeo
+- https://www.google.com/search?tbm=isch&q=david%20wojnarowicz%20painting&tbs=imgo:1#imgrc=SZQh2EYx94zY8M
+- https://en.wikipedia.org/wiki/David_Wojnarowicz
+- https://duckduckgo.com/?t=ffab&q=close+to+the+knives+by+david+wojnarowicz&ia=web
+- [color theory](https://thebookofshaders.com/edit.php?log=160505191155)
+- https://github.com/Stability-AI/stability-sdk
+- https://www.decisionproblem.com/paperclips/index2.html
+- https://www.powells.com/book/a-dictionary-of-critical-theory-9780313235276
+- https://lexica.art/?prompt=7f030d69-05e1-49e9-9767-fb9999c49cae
+- https://porkmail.org/era/unix/award
+- [web assembly wasm image magick](https://github.com/KnicKnic/WASM-ImageMagick#demos-and-examples)
+- https://codesandbox.io/s/yvn6rkr16z?file=/src/index.tsx
+- [ai artist](https://twitter.com/dvsch)
   
   
   
