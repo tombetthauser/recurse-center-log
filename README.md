@@ -8,11 +8,12 @@
 Personal log of my experience at [Recurse Center](https://recurse.com).
 
 ---
+<details>
+  <summary>Week 1</summary>
 
 ## Week 1: Plans
-  - go to as much stuff as possible
-  - do a small / fun warm-up project
-
+- go to as much stuff as possible
+- do a small / fun warm-up project
 
 ## Week 1: Reflections
 
@@ -55,7 +56,10 @@ What are some things I'd like to work on during my batch that I haven't gotten a
   - some kind of practical platform for visual art hippies / art students (??)
   - start a zine / art weirdo group maybe
 
----
+</details>
+
+<details>
+  <summary>Week 2</summary>
 
 ## Week 2: Plans
   - leetcode group ❌
@@ -133,8 +137,11 @@ What are some things I'd like to work on during my batch that I haven't gotten a
 - https://toplap.org/
 - http://puredata.info/
 
----
+</details>
 
+<details>
+  <summary>Week 3</summary>
+  
 ## Week 3: Plan
   - 1-2 leetcode sessions
   - 2-3 zinebot layouts
@@ -258,8 +265,62 @@ What are some things I'd like to work on during my batch that I haven't gotten a
 - https://www.iucn.org/resources?search_api_fulltext=california&rstype=All&thm=All&tpc=All&rgn=All&cntry=All&resource_type=All%23resources
 - https://www.amazon.com/Half-Earth-Our-Planets-Fight-Life/dp/1631492527/ref=sr_1_1?keywords=half+earth&qid=1665207643&qu=eyJxc2MiOiIxLjcyIiwicXNhIjoiMS40NCIsInFzcCI6IjEuNjEifQ%3D%3D&sr=8-1
 
----
+</details>
 
-## Week 4:
-- Completely forgot what I worked on but I remember it felt like a really good week.
-- Met 
+<details>
+  <summary>Week 4</summary>
+  
+  - Completely forgot what I worked on but I remember it felt like a really good week.
+</details>
+
+<details>
+  <summary>Week 5 —————</summary>
+## Plans
+## Reflections
+## Accomplishments
+## Blockers
+## Interactions
+## Feelings
+## Takeaways
+## Next Week
+  
+## Links
+- https://www.google.com/search?tbm=isch&q=paper%20architecture&tbs=imgo:1#imgrc=DNKNI-oQi-nhCM
+- https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119/ref=sr_1_1?keywords=alex+xu+system+design&qid=1663267922&sr=8-1
+- https://cternus.net/blog/2018/01/26/tackling-the-system-design-interview/
+- https://github.com/saintmarina/neurofit
+- https://github.com/cdkini
+- https://www.recurse.com/jobs/advice#resume-advice
+- https://realless.glitch.me/
+- https://www.fast.ai/posts/part2-2022-preview.html#lesson-9adeep-dive
+- https://waxy.org/2022/08/exploring-12-million-of-the-images-used-to-train-stable-diffusions-image-generator/
+- [stable diffusion source images](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images?_search=vermeer&_sort=rowid)
+- [ivan images](https://photos.google.com/share/AF1QipPZDPQnh008JqicrWTH9yTQCD-Mw_GFvrLKLuwkTG33uzyMlrADRPEvfWefZxa8rw?obfsgid=100786738232291902119&email=TomBetthauser@gmail.com&pli=1&key=Q05QWGZRWlBJZEZ4RG9WalZyekQ5NlJsMDdqa093)
+- [hugging face token](https://huggingface.co/settings/tokens)
+- https://ml5js.org/
+- [tarot deck](https://drive.google.com/drive/folders/1sZYKKkaEPgGNDtdv7RBVGt9MDX1FVY36)
+- https://duckduckgo.com/?t=ffab&q=undone+animation&iax=videos&ia=videos&iai=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnAxzDVb-aTY
+- [give back hackathon](https://givebackhack.com/)
+- https://stockfishchess.org/
+- https://www.sciencedirect.com/science/article/pii/S0004370201001291
+  
+  
+  
+</details>
+  
+  
+  
+<!-- <details>
+  <summary>Week X —————</summary>
+  ## Plans
+  ## Reflections
+  ## Accomplishments:
+  ## Blockers:
+  ## Interactions:
+  ## Feelings:
+  ## Takeaways:
+  ## Next Week:
+  ## Links:
+</details> -->
+  
+
