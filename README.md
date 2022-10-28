@@ -1,9 +1,8 @@
 <!-- <img style="width: 150px;" src="https://gifimage.net/wp-content/uploads/2018/06/student-writing-animated-gif-2.gif" /> -->
 <!-- <img style="width: 250px;" src="https://gifimage.net/wp-content/uploads/2018/06/student-writing-animated-gif-1.gif" /> -->
+<!-- <img style="width: 250px;" src="https://legendary-digital-network-assets.s3.amazonaws.com/wp-content/uploads/2020/06/13034626/picards-computer.jpg" /> -->
 
-<img style="width: 250px;" src="https://legendary-digital-network-assets.s3.amazonaws.com/wp-content/uploads/2020/06/13034626/picards-computer.jpg" />
-
-# Recurse Log
+# Recurse Log 🌲
 
 Personal log of my experience at [Recurse Center](https://recurse.com).
 
@@ -349,7 +348,7 @@ What are some things I'd like to work on during my batch that I haven't gotten a
   
   
 <details>
-  <summary>Week 6 —————</summary>
+  <summary>Week 6</summary>
   
   ## Plans
   * fully dive in to fast.ai and rust with michael
@@ -401,6 +400,14 @@ What are some things I'd like to work on during my batch that I haven't gotten a
   * https://github.com/fastai/course22p2/blob/master/nbs/01_matmul.ipynb
   * https://github.com/rust-lang/flate2-rs
   * https://github.com/fastai/diffusion-nbs
+  * ----
+  * https://cloud.lambdalabs.com/instances
+  * https://jupyter-c5baadd3-7dfa-4d59-b949-6221868d1a2d.lambdaspaces.com/lab/tree/rustfusion/diffusers/sd_textual_inversion_training.ipynb
+  * [cat example / usable inference notebook from fastai](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_conceptualizer_inference.ipynb#scrollTo=KbzZ9xe6dWwf)
+  * https://huggingface.co/settings/tokens
+  * [fastai basics notebook - spaceman riding horse](https://colab.research.google.com/github/fastai/diffusion-nbs/blob/master/stable_diffusion.ipynb#scrollTo=rgZfBPccRSV0)
+  * [indian watercolor examples fastai](https://huggingface.co/sd-concepts-library/indian-watercolor-portraits)
+  * 
   
   
   
@@ -408,7 +415,7 @@ What are some things I'd like to work on during my batch that I haven't gotten a
   
   
 <!-- <details>
-  <summary>Week X —————</summary>
+  <summary>Week X</summary>
   ## Plans
   ## Reflections
   ## Accomplishments:
