@@ -2,7 +2,7 @@
 <!-- <img style="width: 250px;" src="https://gifimage.net/wp-content/uploads/2018/06/student-writing-animated-gif-1.gif" /> -->
 <!-- <img style="width: 250px;" src="https://legendary-digital-network-assets.s3.amazonaws.com/wp-content/uploads/2020/06/13034626/picards-computer.jpg" /> -->
 
-# Recurse Log 🌲
+# Recurse Log 🦑
 
 Personal log of my experience at [Recurse Center](https://recurse.com).
 
@@ -407,7 +407,31 @@ What are some things I'd like to work on during my batch that I haven't gotten a
   * https://huggingface.co/settings/tokens
   * [fastai basics notebook - spaceman riding horse](https://colab.research.google.com/github/fastai/diffusion-nbs/blob/master/stable_diffusion.ipynb#scrollTo=rgZfBPccRSV0)
   * [indian watercolor examples fastai](https://huggingface.co/sd-concepts-library/indian-watercolor-portraits)
-  * 
+  * ---
+  * https://www.snapchat.com/add/b_lucas3765
+  * http://stoney.sb.org/eno/oblique.html
+  * [repaint ai diffusion masking example from creative coding](https://github.com/andreas128/RePaint)
+  * ---
+  * https://twitter.com/i/events/1286382718578839553
+  * http://www.montevistaprojects.com/
+  * http://the-witness.net/news/2012/05/the-depth-jam/
+  * https://www.schoolofma.org/about/
+  * https://www.recurse.com/blog/123-rc-pop-up-two-weeks-of-collaboration-and-focused-work-on-generative-art
+  * https://github.com/olivierbrcknr/littleBigPrinter
+  * https://github.com/eviau/htmlfreewrites
+  * [html energy - lowtech website group](http://html.energy/events.html)
+  * [art in the age of machine learning](https://mitpress.mit.edu/9780262046183/art-in-the-age-of-machine-learning/)
+  * [logistics - crazy long film](https://www.youtube.com/watch?v=QYFG0xP12yE)
+  * [logistics - crazy long film]([https://www.youtube.com/watch?v=QYFG0xP12yE](https://en.wikipedia.org/wiki/Logistics_(film)))
+  * ---
+  * https://stackoverflow.com/questions/56762026/how-to-save-ndarray-in-rust-as-image
+  * https://crates.io/crates/mnist
+  * https://duckduckgo.com/?t=ffab&q=kahlil+gibran&ia=web
+  * https://deepai.org/dataset/mnist
+  * https://crates.io/crates/mnist
+  * [fastai lecture 2](https://www.youtube.com/watch?v=Tf-8F5q8Xww)
+  * ---
+  * https://merch.recurse.com/merch
   
   
   
