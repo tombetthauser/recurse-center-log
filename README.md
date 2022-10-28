@@ -348,6 +348,64 @@ What are some things I'd like to work on during my batch that I haven't gotten a
 </details>
   
   
+<details>
+  <summary>Week 6 —————</summary>
+  
+  ## Plans
+  * fully dive in to fast.ai and rust with michael
+  
+  ## Reflections
+  * felt like progress was a bit slow
+  * blocked by rust syntax and environment / setup issues with notebooks
+  
+  ## Accomplishments:
+  * felt like  I got off the ground with Rust
+  * feel comfortable with Rust book / docs / basic concepts
+  * feel like I can continue to learn rust independently after batch
+  * felt like I got off the ground with using notebooks / gpu services
+  * felt like I got some ownership over fast.ai
+  * feel like I could continue working through it independently after batch
+  * finally settled on interface for home server and shared link with some people
+  * got some really interesting / inspiring prints sent to my printer
+  * feeling really proud of that project
+  * had great conversations on post-batch art show
+  * got the ball rolling to talk over next steps with sonali
+  
+  ## Blockers:
+  * hitting basic syntax walls with rust
+  * feels like I need (and want) to go back and study rust fundamentals
+  * hitting walls with environment set-up in notebooks / gpu service environments
+  * not sure where to start in getting more experienced with those
+  
+  ## Interactions:
+  * a lot of really inspiring conversations and pairing time with michael nagle
+  * got out to another in-person meet up in SF with old bootcamp / employer community
+  * got to talk more and think more about career path after batch
+  * missed going to checkins a bit but felt like a good different side of the RC experience 
+  
+  ## Feelings:
+  * feeling really positive / fulfilled with RC experience
+  * feeling like I want to have some tangible output
+  
+  ## Takeaways:
+  
+  ## Next Week:
+  
+  ## Links:
+  * https://pharmapsychotic.com/tools.html
+  * https://github.com/fastai/diffusion-nbs/blob/master/suggested_tools.md
+  * https://www.fast.ai/posts/part2-2022-preview.html#lesson-10custom-pipeline
+  * https://www.youtube.com/watch?v=6StU6UtZEbU
+  * https://forums.fast.ai/t/lesson-10-part-2-preview/101337
+  * https://github.com/tombetthauser/fast-ai-notes/blob/main/README.md
+  * https://github.com/fastai/course22p2/blob/master/nbs/01_matmul.ipynb
+  * https://github.com/rust-lang/flate2-rs
+  * https://github.com/fastai/diffusion-nbs
+  
+  
+  
+</details>
+  
   
 <!-- <details>
   <summary>Week X —————</summary>
