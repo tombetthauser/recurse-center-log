@@ -433,10 +433,99 @@ What are some things I'd like to work on during my batch that I haven't gotten a
   * ---
   * https://merch.recurse.com/merch
   
-  
-  
+</details>
+
+
+<details>
+  <summary>Week 7</summary>
+  worked on fastai??
 </details>
   
+  
+
+<details>
+  <summary>Week 8</summary>
+  ## Summary
+  * worked on fastai
+  * participated in hackathon
+  * gave non-tech art talk
+  * went to ml meadow
+  * had positive overlap with josef and alex
+  * figured out gradio
+  * figured out gpt3 basics
+  
+  ## Links:
+  * https://csound.com/
+  * https://finartcialist.bandcamp.com/album/tudes-volatilit
+  * https://freeliner.xyz/
+  * https://github.com/bigblueboo/generative-ai-playground/blob/main/stable_diffusion_explore_interpolate_seeds.ipynb
+  * https://thebookofshaders.com/
+  * https://picsum.photos/
+  * https://beta.openai.com/playground
+  * https://docs.google.com/forms/d/e/1FAIpQLSdOBUVk99SjW1Hvjr59cuvtxaeENLUYTP2A-hZ2jw2QeVyY7A/viewform
+  * https://ayunhalliday.com/the-east-village-inky/
+  * https://www.modem.show/
+  * https://pages.cs.wisc.edu/~remzi/OSTEP/
+  * https://focusretreatcenter.com/
+  * https://joyofrandomness.com/collections/delphiniums
+
+  ---
+
+  ### FastAI Links
+  * https://www.fast.ai/posts/part2-2022-preview.* html#lesson-9pipelines-and-concepts
+  * https://www.youtube.com/watch?v=_7rMfsA24Ls
+  * https://www.youtube.com/watch?v=6StU6UtZEbU
+  * https://www.youtube.com/watch?v=Tf-8F5q8Xww
+  * https://www.youtube.com/watch?v=_xIzPbCgutY
+  * https://www.youtube.com/watch?v=mvyiwjWPGig
+  * https://github.com/fastai/course22p2/tree/master/nbs
+
+  ---
+
+  ### MAIN FASTAI NOTEBOOK
+  * https://colab.research.google.com/github/fastai/diffusion-nbs/blob/master/stable_diffusion.ipynb#scrollTo=kcVJH88GoGyv
+
+  ### HUGGINGFACE TOKEN
+  * https://huggingface.co/settings/tokens
+
+  ### FINE TUNING EXAMPLE
+  * https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/sd_textual_inversion_training.ipynb#scrollTo=KGfNa4dFF8Om
+
+  ### IMPORT FINE TUNING
+  * https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_conceptualizer_inference.ipynb#scrollTo=Qvt7nVLfwU9S
+
+  ### GRADIO EXAMPLE
+  * https://colab.research.google.com/drive/1flyR3ihkjXhOnW3yOfL9YVRE39GrAS-I#scrollTo=ydoE04MvJBk7
+
+  ### GRADIO BASICS
+  * https://colab.research.google.com/drive/16qj_3FORbW1HM3UAUcbUw-oHmsS5LiPMa drawing of a man riding a horse, a charcoal drawing by Ancell Stronach, featured on deviantart, photorealism, charcoal drawing, pencil sketch, hyper realism
+
+  ---
+
+  ### 3D SCANNING LINKS
+  * https://en.wikipedia.org/wiki/Photogrammetry
+  * https://en.wikipedia.org/wiki/GlTF
+  * https://github.com/artemnovichkov/wwdc21-samplecode/tree/main/Code/CreatingAPhotogrammetryCommandLineApp
+
+  ---
+
+  ### Colab Notebooks
+  * https://colab.research.google.com/drive/1cZne3L5Fe6T89D0oMsRKe0Yy8wuodUUh#scrollTo=AqQ2gCjeQliH
+  * https://colab.research.google.com/drive/1GMtOd4njVFY7KXqe_Q7oKsMb3X_v33P6?usp=sharing
+  * https://colab.research.google.com/github/pharmapsychotic/clip-interrogator/blob/main/clip_interrogator.ipynb#scrollTo=xpPKQR40qvz2
+  * https://colab.research.google.com/drive/10nQzO_86MVNp4FEYRtOy* Htt1EK7rnFHO#scrollTo=xwTAM_BvHdVU
+
+  ### Image to Prompt
+  * https://replicate.com/methexis-inc/img2prompt
+
+  ---
+
+  ### STATIC STEPS EXAMPLE
+  * https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/diffusers_intro.ipynb#scrollTo=xdHqA7C0Asp9
+
+  ### AI FEEDBACK LOOP PROJECT
+  * https://davidlebech.com/thoughtflow/a-game-of-ai-telephone/
+</details>
   
 <!-- <details>
   <summary>Week X</summary>
